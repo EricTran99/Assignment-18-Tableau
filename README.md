@@ -18,6 +18,13 @@ The citi bike data, contains details about each of the station location and name
 The chosen data is the '2013-06 citi-data', mainly due to the limitation of the free version. Due to the size of the csv file, the system tends to become slow in corporating the data
 therefore, if anymore data were to be added, it would lead to an extremely slow process. And the free-version can only uphold a certain amount of raw data.
 
+Here are the images in case the image doesn't upload properly.
+![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/eba881f0-f43f-459a-baf9-dc2d8c8d6dcd)
+![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/e685804b-f48d-457f-895e-df20f65bb5ad)
+![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/c3284dbc-c6dd-4961-8ca5-3b6852f95872)
+![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/018b296d-a8c0-4712-9b83-509c4647c177)
+
+
 <h2> Key findings with the visuals</h2>
 There are four dashboards, each containing different values and provides a unique perspective to the results
 
