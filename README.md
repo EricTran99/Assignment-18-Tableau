@@ -37,13 +37,13 @@ the sheer ease of riding the city with the bike compared to traveling in a vehic
 ways in traveling, such as by the seaside or docks
 
 <h4>2. comparing the top 10 with the bot 10</h4>
-![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/e685804b-f48d-457f-895e-df20f65bb5ad)<br/>
+![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/e685804b-f48d-457f-895e-df20f65bb5ad)
 
 this image highlights the top 10 station location and compare with the 10 least popular stations. By looking at the geographical location of the station, a clear distinction of the preference in 
 using the city bikes. This can be due to the density of the inner city where the cars struggle to manevour around the small area. Whereas the land at the bottom tends to be more open, hence favouring
 cars over bikes.
 
-![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/c3284dbc-c6dd-4961-8ca5-3b6852f95872)<br/>
+![image](https://github.com/Nisloen/Assignment-18-Tableau/assets/134130254/c3284dbc-c6dd-4961-8ca5-3b6852f95872)
 
 This image further supports the initial reason with values of the most common compared to the least popular across the year.
 
