@@ -1,5 +1,5 @@
 # Citi Bike Data Analysis-Tablaeu
-This is a repository for module 18 which focus on using Tableau tool to create visualistion based on citi data.
+
 
 <h1>Key note </h1>
 The software, Tableau, is a free version, hence there are certain limitation into completing the task, though it shouldn't affect the 
