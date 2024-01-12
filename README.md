@@ -1,5 +1,6 @@
 # Citi Bike Data Analysis-Tablaeu
 
+This module focus on the Tableau program's tool for data visualisation where the Citi Bike dataset from 2013 is used for creating visualisation to showcase various trends and outliners that wouldn't be possible to notice through pure statistics.
 
 <h1>Key note </h1>
 The software, Tableau, is a free version, hence there are certain limitation into completing the task, though it shouldn't affect the 
